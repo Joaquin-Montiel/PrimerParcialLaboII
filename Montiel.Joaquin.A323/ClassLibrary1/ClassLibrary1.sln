@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "ClassLibrary1\Biblioteca.csproj", "{F013DB48-063B-44E7-9846-1B4A5483DA6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimerParcialMontielJoaquin", "PrimerParcialMontielJoaquin\PrimerParcialMontielJoaquin.csproj", "{081F6849-75B6-464A-82DD-70CA82F379E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F013DB48-063B-44E7-9846-1B4A5483DA6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F013DB48-063B-44E7-9846-1B4A5483DA6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F013DB48-063B-44E7-9846-1B4A5483DA6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F013DB48-063B-44E7-9846-1B4A5483DA6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{081F6849-75B6-464A-82DD-70CA82F379E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{081F6849-75B6-464A-82DD-70CA82F379E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{081F6849-75B6-464A-82DD-70CA82F379E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{081F6849-75B6-464A-82DD-70CA82F379E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59C29A0B-F744-4720-8404-69577A16A023}
+	EndGlobalSection
+EndGlobal
